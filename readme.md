@@ -1,4 +1,4 @@
-![Plesk](./source/static/plesk.jpg)
+[![Plesk](./source/static/plesk.jpg)](http://plesk.com/)
 
 # Конспекты докладов с CodeFest X 
 
