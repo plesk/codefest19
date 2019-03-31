@@ -1,3 +1,6 @@
+<p align="right"><a href = "https://plesk.com"><img src = "static/plesk.jpg" height=60px"></a></p>
+
+
 # Командный и персональный рост в продукте: уроки, навыки и процессы
 
 Анна Бояркина, Miro (Realtime Board)
