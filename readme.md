@@ -14,3 +14,7 @@
 
 * [Командный и персональный рост в продукте: уроки, навыки и процессы](./source/team-and-personal-growth.md).
 * [Эволюция цифрового общения](./source/digital-communication.md)
+* [Додо в LeSS: как не заблудиться](./source/DODO.md)
+* [Основные ошибки при проведении экспериментов](./source/Experiments%20and%20mistakes.md)
+* [Moneyball. Как построить команду продактов, когда на рынке их нет](./source/Moneyball.md)
+* [Сколько нужно энергии для работы Scrum Master, Product Owner и Agile Coach?](./source/PM%20Energy.md)
