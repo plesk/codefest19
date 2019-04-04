@@ -5,8 +5,8 @@
 ## Мнение спикера
 * Оптимальный состав команды 4 человека.
 * Команда из нескольких постоянно обучающихся Product managers может стоить как один Product manager superstar, а по эффективности превосходить.
-![](./static/Moneyball 2.png)
-![](./static/Moneyball 3.png)
+![](static/Moneyball2.png)
+![](static/Moneyball3.png)
 * В команде можно вырастить middle Product manager за 1-2 года.
 * Определяющий skillset PM не должен быть перенасыщенным.
 
@@ -16,7 +16,7 @@
 ## Ликбез
 [I, T, Pi Shaped.](https://devopsinstitute.com/2017/11/15/from-i-shaped-to-t-shaped-why-devops-professionals-need-to-be-multi-skilled/)
 
-![](./static/Moneyball 1.png)
+![](static/Moneyball1.png)
 
 ## Инструменты
 
@@ -24,7 +24,7 @@
 
 Пример матрицы релевантных для компании Hard-skills.
 
-![](./static/Moneyball 4.png)
+![](static/Moneyball4.png)
 
 ### 2. Soft-skills PM
 
@@ -39,7 +39,7 @@
 ### 3. Визуализация продуктового процесса
 
 Помнить через какие стадии должна проходить работа над гипотезой/ фичей.
-![](./static/Moneyball 5.png)
+![](static/Moneyball5.png)
 
 ### 4. Шаблон гипотезы
 
